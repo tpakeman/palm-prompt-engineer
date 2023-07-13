@@ -1,5 +1,19 @@
 # gpt-prompt-engineer
+
+## Important
+_Modified Thursday 13th July 2023_
+
+This is a fork of the public repo [here](https://github.com/mshumer/gpt-prompt-engineer) - authored by Matt Shumer.
+
+This repo is identical in functionality, but has been modified to use Google's PaLM API by [Tom Pakeman](mailto:tompakeman@google.com)
+
+
+Original unmodified README below
+
+---
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://twitter.com/mattshumer_) [![Open Main Version In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mshumer/gpt-prompt-engineer/blob/main/gpt_prompt_engineer.ipynb) [![Open Classification Version In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16NLMjqyuUWxcokE_NF6RwHD8grwEeoaJ?usp=sharing)
+
 
 
 ## Overview
