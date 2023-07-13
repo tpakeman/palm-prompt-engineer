@@ -1,4 +1,4 @@
-# gpt-prompt-engineer
+# palm-prompt-engineer
 
 ## Important
 _Modified Thursday 13th July 2023_
@@ -11,6 +11,7 @@ This repo is identical in functionality, but has been modified to use Google's P
 Original unmodified README below
 
 ---
+# gpt-prompt-engineer
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mattshumer_?style=social)](https://twitter.com/mattshumer_) [![Open Main Version In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mshumer/gpt-prompt-engineer/blob/main/gpt_prompt_engineer.ipynb) [![Open Classification Version In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16NLMjqyuUWxcokE_NF6RwHD8grwEeoaJ?usp=sharing)
 
